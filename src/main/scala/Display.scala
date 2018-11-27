@@ -3,7 +3,7 @@ package com.alexcarrega.game.goose
 object Display {
   final val NOT = "NOT"
   final val NEW_LINE: String = "\n"
-  final val ARROW: String = fansi.Color.Cyan(">>>").toString
+  final val ARROW: String = (fansi.Color.Cyan(">") ++ fansi.Color.LightCyan(">") ++ styleText(">")).toString
 
   def styleInfo(text: Any): String = fansi.Color.Magenta(s"$text").toString
   def styleWarn(text: Any): String = fansi.Color.Yellow(s"$text").toString

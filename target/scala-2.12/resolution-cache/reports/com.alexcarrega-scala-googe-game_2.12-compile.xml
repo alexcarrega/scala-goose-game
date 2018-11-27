@@ -7,7 +7,7 @@
 		revision="1.0.0"
 		conf="compile"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20181127180908"/>
+		date="20181127192752"/>
 	<dependencies>
 		<module organisation="com.lihaoyi" name="fansi_2.12">
 			<revision name="0.2.5" status="release" pubdate="20170912211145" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/lihaoyi/fansi" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="85">
