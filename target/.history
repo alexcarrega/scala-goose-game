@@ -1,0 +1,51 @@
+compile
+help
+.
+exit
+help
+projects
+settings
+compile
+reload
+compile
+compileù
+compile
+reload
+compile
+assembly
+exit
+help
+shell
+exit
+warn
+compile
+exit
+compile
+reload
+compile
+reload
+compile
+run
+compile
+run
+info
+run
+exit
+set logLevel := error
+set logLevel := err
+set logLevel err
+set logLevel:=err
+set logLevel := Level.error
+set logLevel := Level.warn
+set logLevel in run := Level.Warn
+run
+set logLevel in run := Level.Warn
+set logLevel in compile := Level.Warn
+run
+set logLevel in compile := Level.Warn
+set logLevel := Level.Error
+run
+exit
+set logLevel := Level.Inf
+set logLevel := Level.Info
+run
