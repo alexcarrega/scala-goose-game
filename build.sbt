@@ -2,7 +2,7 @@ scalaVersion := "2.12.7"
 
 onLoadMessage := ""
 showSuccess := false
-logLevel in run := Level.Warn
+logLevel in run := Level.Error
 
 name := "scala-googe-game"
 organization := "com.alexcarrega"
