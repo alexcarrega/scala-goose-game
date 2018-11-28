@@ -49,3 +49,36 @@ exit
 set logLevel := Level.Inf
 set logLevel := Level.Info
 run
+logLevel
+loglevel
+setings
+settings
+settings logLevel
+settings logLevel warn
+set logLevel warn
+set logLevel LogLevel.warn
+set logLevel := LogLevel.warn
+set logLevel := warn
+set logLevel = warn
+set logLevel warn
+set logLevel
+set logLevel in run := LogLevel.Error
+set logLevel in run := LogLevel.error
+run
+help
+about
+exit
+help
+settings
+logLevel
+setttings LogLevel
+setttings logLevel
+settngs logLevel
+settngs
+settings logLevel
+settings
+settings fork
+settings fork get
+set fork
+get fork
+exit
